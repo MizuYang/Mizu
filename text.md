@@ -1,4 +1,7 @@
-#    這是測試用的
+#    這是測試用的222
+
+[![hackmd-github-sync-badge](https://hackmd.io/CwCi70C2To2sB48DXAsxbg/badge)](https://hackmd.io/CwCi70C2To2sB48DXAsxbg)
+
 #     基本介紹
 
 ##    關注點分離
